@@ -1,0 +1,11 @@
+AWS Console Changes
+Section 2, Lecture 6
+Important Information: As you will see, the AWS Lambda Console you will have in your web browser may be different from the one shown in the next video (it has been updated in December 2017 for some people). 
+
+Overall, these changes do not break the course and do not change the learning. AWS Lambda still works the same. 
+
+We only use the web console once to setup our first function (next video)
+The rest of the course is purely programmatic
+Rest assured, the day something in the course breaks, I will update it!
+
+Happy learning :)

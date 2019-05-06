@@ -1,0 +1,15 @@
+Pre-requisite: Docker installation
+Section 4, Lecture 24
+If you would like to run this example
+
+You will need to install Docker:
+
+https://store.docker.com/search?type=edition&offering=community
+
+If you don't have Windows 10 64 bit, please install Docker Toolbox:
+
+https://www.docker.com/products/docker-toolbox
+
+
+
+Otherwise just look at the videos as they are still very informative :)
