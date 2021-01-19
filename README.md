@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/aws-lambda-and-the-serverless-framework-hands-on-learning/9781789349955)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # AWS Lambda and the Serverless Framework - Hands-On Learning!	
 This is the code repository for [AWS Lambda and the Serverless Framework - Hands-On Learning!](https://www.packtpub.com/networking-and-servers/aws-lambda-and-serverless-framework-hands-learning), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
